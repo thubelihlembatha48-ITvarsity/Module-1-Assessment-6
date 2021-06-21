@@ -1,0 +1,73 @@
+.gallary img{
+    width: 500px;
+    height: 500px;
+    
+    
+}
+
+h{
+    font-size: 90px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:papayawhipS;
+    text-align: center;
+    color: limegreen;
+}
+p{
+    background-color:papayawhip;
+    font-style: italic;
+    font-family: cursive;
+}
+
+div{
+    background-color:papayawhip;
+}
+h1{
+    font-style: oblique;
+    background-color:papayawhip;
+    color: red;
+}
+
+.gallary img{
+    width: 50%;
+}
+
+h5{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: papayawhip;
+    color: red;
+}
+
+p1{
+    font-size: 18px;
+    font-style: oblique;
+}
+
+table{
+    border-collapse: collapse;
+    table-layout: unset;
+    background-color:papayawhip;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+button:hover{
+    color: red;
+    font-style: italic;
+    font-size: larger;
+    border-radius: 15px 15px;
+    paint-order: stroke;
+    background-color: limegreen;
+}
+
+#menu a{
+    text-decoration:none;
+    font-style: normal;
+    background-color:papayawhip;
+    font-size: 30px;
+    width: fit-content;
+    border-radius: 10px;
+    text-align: center;
+    width: fit-content;
+}
